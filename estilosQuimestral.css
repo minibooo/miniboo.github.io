@@ -1,0 +1,45 @@
+.tapir
+{
+    
+ display: flex;
+justify-content: center;
+align-items: center;
+background-color: #E2E2E2;  
+height: 100px
+}
+
+
+.Julian
+{
+    
+ display: flex;
+justify-content: center;
+align-items: center;
+background-color:#FFF0AC ;  
+height: 100px    
+}
+
+
+
+.Jiménez img{
+    width: 100%
+}
+{
+    
+ display: flex;
+justify-content: center;
+align-items: center;
+background-color:#D1EAFF ;  
+    
+}
+
+
+
+.Pogo
+{
+    
+ display: flex;
+justify-content: center;
+align-items: center;
+height: 100px 
+}
